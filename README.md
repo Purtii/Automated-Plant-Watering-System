@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Automated Plant Watering System is an IoT-based embedded system designed to monitor soil moisture and control plant irrigation remotely.
+The Automated Plant Watering System is an IoT-based embedded system designed to monitor soil moisture and control plant watering remotely.
 
 The project combines a NodeMCU ESP8266 microcontroller, a resistive soil moisture sensor, a 16x2 I2C LCD, a relay module, a mini water pump and the Blynk IoT platform.
 
